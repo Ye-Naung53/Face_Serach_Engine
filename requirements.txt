@@ -6,6 +6,6 @@ facenet_pytorch
 retinaface
 sqlalchemy
 pillow
-
+psycopg2
 
 
