@@ -3,7 +3,6 @@ matplotlib
 numpy
 imutils
 facenet_pytorch
-os-sys
 retinaface
 sqlalchemy
 pillow
