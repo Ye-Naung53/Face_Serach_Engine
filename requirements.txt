@@ -6,6 +6,5 @@ facenet_pytorch
 retinaface
 sqlalchemy
 pillow
-psycopg2-binary==2.9.2
-
-
+pandas
+opencv-python
