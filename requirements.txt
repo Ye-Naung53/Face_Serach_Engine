@@ -1,10 +1,11 @@
-streamlit
 matplotlib
 numpy
 imutils
 facenet_pytorch
 retinaface
-sqlalchemy
 pillow
 pandas
-opencv-python
+numpy==1.21.6
+opencv_python==4.6.0.66
+requests==2.28.1
+streamlit==1.10.0
